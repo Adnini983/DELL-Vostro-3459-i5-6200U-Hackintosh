@@ -10,7 +10,7 @@
 |---|---|---|
 |CPU|Intel Core i5-6200U|2.30 GHz|
 |内存|Samsung M471B1G73BH0-YK0 8GB×2|1600 MHz|
-|SSD|ONDA A-24|256 GB|
+|SSD|ONDA A-24 256 GB|SATA|
 |光驱|HL-DT-ST DVD+/-RW GU90N|SATA|
 |iGPU|Intel HD Graphics 520|2048 MB|
 |dGPU|AMD Radeon R5 M315|2048 MB|
